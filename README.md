@@ -61,10 +61,10 @@ http://localhost:5500/
 
 ## 👤 Mein Beitrag
 
-- [Hier trägst du deine konkreten Beiträge ein]
-- [Beispiel: Board-Logik & Drag & Drop]
-- [Beispiel: Add-Task Flow, Subtasks, Assignees]
-- [Beispiel: Contacts inkl. CRUD & Validierung]
+- LogIn/LogOut HTML&CSS
+- Summary-Dashboard HTML, CSS & JS Logik 
+- Privacy Policy & Legal Notice errichtet
+- Board/Task Overlays eingerichtiet 
 
 ---
 
