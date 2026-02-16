@@ -1,4 +1,4 @@
-const BASE_URL = "https://join-applikation-default-rtdb.europe-west1.firebasedatabase.app";
+const BASE_URL = "https://join-projekt-a90c9-default-rtdb.europe-west1.firebasedatabase.app/";
 
 let selectedPriority = "";
 let faAssigneesLoaded = false;

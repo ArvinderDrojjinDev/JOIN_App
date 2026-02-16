@@ -1,4 +1,4 @@
-const SUMMARY_BASE_URL = "https://join-applikation-default-rtdb.europe-west1.firebasedatabase.app";
+const SUMMARY_BASE_URL = "https://join-projekt-a90c9-default-rtdb.europe-west1.firebasedatabase.app/";
 
 async function updateSummary() {
   try {

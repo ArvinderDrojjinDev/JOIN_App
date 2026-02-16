@@ -1,5 +1,5 @@
 async function onloadFunc() {
-  const BASE_URL = "https://join-applikation-default-rtdb.europe-west1.firebasedatabase.app";
+  const BASE_URL = "https://join-projekt-a90c9-default-rtdb.europe-west1.firebasedatabase.app/";
   const emailEl = document.querySelector('input[name="email"]');
   const pwdEl   = document.querySelector('input[name="password"]');
 
